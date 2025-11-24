@@ -1,0 +1,1 @@
+const MAX_HISTORY_ITEMS = 5;
